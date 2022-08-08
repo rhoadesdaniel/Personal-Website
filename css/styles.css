@@ -1,0 +1,86 @@
+/* Website Colors
+
+Indigo - 	hsl(243, 22%, 35%)
+Teal - hsl(200, 47%, 45%)
+Seafoam - hsl(181, 59%, 54%)
+Mint - hsl(161, 65%, 80%) */
+
+/* Summary Section */
+body .summary {
+  text-align: center;
+  justify-content: center;
+  margin-top: -1%;
+  margin-bottom: 0%;
+  background-color: hsl(161, 65%, 90%);
+}
+
+.summary .summary-contact {
+  color: hsl(161, 65%, 90%);
+  background-color: hsl(243, 22%, 35%);
+  font-family: 'Roboto Slab', serif;
+}
+
+.summary .summary-icon {
+  max-width: 7%;
+  margin: 0 1.5%;
+}
+
+.summary .summary-image {
+  border: 10px solid hsl(243, 22%, 35%);
+  border-radius: 100%;
+  max-width: 60%;
+}
+
+.summary .summary-name {
+  font-family: 'Roboto Slab', serif;
+}
+
+.summary .summary-text {
+  font-family: 'Montserrat', sans-serif;
+  max-width: 40ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.summary .summary-toggle-container {
+  position: relative;
+  bottom: 7.5%;
+  left: 29%;
+}
+
+.summary .summary-toggle-up {
+  max-width: 5%;
+  display: none;
+}
+
+.summary .summary-toggle-down {
+  max-width: 5%;
+  display: none;
+}
+
+.info .info-header {
+  color: hsl(161, 65%, 90%);
+  background-color: hsl(200, 47%, 45%);
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  padding: 2%;
+}
+
+.info .about-column {
+  border-right: 2px solid hsl(243, 22%, 35%); 
+}
+
+.info .about-header {
+  margin-bottom: 0;
+}
+
+.info .projects-header {
+  margin-bottom: 0;
+}
+
+footer {
+  background-color: hsl(181, 59%, 54%);
+  padding: 8%;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
