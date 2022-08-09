@@ -63,19 +63,32 @@ body .summary {
   background-color: hsl(200, 47%, 45%);
   font-family: 'Roboto Slab', serif;
   text-align: center;
-  padding: 2%;
+  border-top: 2px solid hsl(243, 22%, 35%);
+  border-bottom: 2px solid hsl(243, 22%, 35%);
 }
 
 .info .about-column {
-  border-right: 2px solid hsl(243, 22%, 35%); 
+  border-right: 2px solid hsl(243, 22%, 35%);
 }
 
 .info .about-header {
   margin-bottom: 0;
+  padding: 2%;
+  color: hsl(161, 65%, 90%);
 }
 
 .info .projects-header {
   margin-bottom: 0;
+  padding: 2%;
+  color: hsl(161, 65%, 90%);
+}
+
+body .about-container {
+  display: none;
+}
+
+body .projects-container{
+  display: none;
 }
 
 footer {
