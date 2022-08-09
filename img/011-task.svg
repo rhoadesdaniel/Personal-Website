@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 64 64" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <g>
+    <path xmlns="http://www.w3.org/2000/svg" d="m18-6h32a0 0 0 0 1 0 0v62a0 0 0 0 1 0 0h-32a4 4 0 0 1 -4-4v-54a4 4 0 0 1 4-4z" fill="#6dd8d9" transform="matrix(0 1 -1 0 57 -7)" data-original="#c9efff" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m59.5 7.2191a3.9575 3.9575 0 0 0 -1.25-.2191h-52.5a3.9575 3.9575 0 0 0 -1.25.2191v35.7809h55z" fill="#44cdcf" data-original="#afe6fa" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m1 47a4 4 0 0 0 4 4h54a4 4 0 0 0 4-4v-4h-62z" fill="#52507c" data-original="#696e82" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m19 59h26v4h-26z" fill="#52507c" data-original="#696e82" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m25 51h14v8h-14z" fill="#48466d" data-original="#5b6172" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m6 1h52v42h-52z" fill="#f8faff" data-original="#f8faff" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m17 26h-4v-4h4z" fill="#3d85a9" data-original="#f03a5a" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m17 37h-4v-4h4z" fill="#3d85a9" data-original="#f03a5a" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m59 6.25h-.25v-5.25a.75.75 0 0 0 -.75-.75h-52a.75.75 0 0 0 -.75.75v5.25h-.25a4.7555 4.7555 0 0 0 -4.75 4.75v36a4.7555 4.7555 0 0 0 4.75 4.75h19.25v6.5h-5.25a.75.75 0 0 0 -.75.75v4a.75.75 0 0 0 .75.75h26a.75.75 0 0 0 .75-.75v-4a.75.75 0 0 0 -.75-.75h-5.25v-6.5h19.25a4.7555 4.7555 0 0 0 4.75-4.75v-36a4.7555 4.7555 0 0 0 -4.75-4.75zm-52.25-4.5h50.5v40.5h-50.5zm-5 9.25a3.2538 3.2538 0 0 1 3.25-3.25h.25v34.5h-3.5zm42.5 48.75v2.5h-24.5v-2.5zm-18.5-1.5v-6.5h12.5v6.5zm36.5-11.25a3.2538 3.2538 0 0 1 -3.25 3.25h-54a3.2538 3.2538 0 0 1 -3.25-3.25v-3.25h60.5zm0-4.75h-3.5v-34.5h.25a3.2538 3.2538 0 0 1 3.25 3.25z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m51 21.25h-30a.75.75 0 0 0 0 1.5h30a.75.75 0 0 0 0-1.5z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m21 26.75h18a.75.75 0 0 0 0-1.5h-18a.75.75 0 0 0 0 1.5z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m51 32.0835h-30a.75.75 0 0 0 0 1.5h30a.75.75 0 0 0 0-1.5z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m39 36.0835h-18a.75.75 0 0 0 0 1.5h18a.75.75 0 0 0 0-1.5z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m17 21.25h-4a.75.75 0 0 0 -.75.75v4a.75.75 0 0 0 .75.75h4a.75.75 0 0 0 .75-.75v-4a.75.75 0 0 0 -.75-.75zm-.75 4h-2.5v-2.5h2.5z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m17 32.25h-4a.75.75 0 0 0 -.75.75v4a.75.75 0 0 0 .75.75h4a.75.75 0 0 0 .75-.75v-4a.75.75 0 0 0 -.75-.75zm-.75 4h-2.5v-2.5h2.5z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m20.25 7.75h1.75a.75.75 0 0 0 0-1.5h-5a.75.75 0 0 0 0 1.5h1.75v7.25a.75.75 0 0 0 1.5 0z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m35 14.75c-1.084 0-2-.687-2-1.5a.75.75 0 0 0 -1.5 0 3.2829 3.2829 0 0 0 3.5 3 3.2829 3.2829 0 0 0 3.5-3 3.2829 3.2829 0 0 0 -3.5-3c-1.084 0-2-.687-2-1.5s.916-1.5 2-1.5 2 .687 2 1.5a.75.75 0 0 0 1.5 0 3.2829 3.2829 0 0 0 -3.5-3 3.2829 3.2829 0 0 0 -3.5 3 3.2829 3.2829 0 0 0 3.5 3c1.084 0 2 .687 2 1.5s-.916 1.5-2 1.5z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m23.2363 15.7021a.75.75 0 0 0 .9658-.4389l.8175-2.18h2.9604l.8175 2.18a.75.75 0 1 0 1.4042-.5264l-3-8a.7806.7806 0 0 0 -1.4042 0l-3 8a.75.75 0 0 0 .4388.9653zm3.2637-6.5659.9178 2.4473h-1.8356z" fill="#000000" data-original="#000000" class=""/>
+    <path xmlns="http://www.w3.org/2000/svg" d="m41.5 15.75a.75.75 0 0 0 .75-.75v-3.023l.9733-.9759 3.1667 4.4349a.75.75 0 0 0 1.2208-.872l-3.3128-4.64 2.3875-2.394a.75.75 0 0 0 -1.0625-1.06l-3.373 3.3821v-2.8521a.75.75 0 0 0 -1.5 0v8a.75.75 0 0 0 .75.75z" fill="#000000" data-original="#000000" class=""/>
+  </g>
+</svg>

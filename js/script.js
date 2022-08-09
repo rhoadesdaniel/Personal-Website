@@ -4,8 +4,6 @@ let projectsButton = document.querySelector("#projects-button")
 let aboutElement = document.querySelector(".about-container");
 let projectsElement = document.querySelector(".projects-container");
 
-console.log(aboutElement.style.display);
-
 function toggleAbout() {
 
   if (projectsElement.style.display != 'none' ) {

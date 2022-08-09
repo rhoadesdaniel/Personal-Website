@@ -5,6 +5,10 @@ Teal - hsl(200, 47%, 45%)
 Seafoam - hsl(181, 59%, 54%)
 Mint - hsl(161, 65%, 80%) */
 
+/* body {
+  overflow: hidden;
+} */
+
 /* Summary Section */
 body .summary {
   text-align: center;
@@ -37,7 +41,7 @@ body .summary {
 
 .summary .summary-text {
   font-family: 'Montserrat', sans-serif;
-  max-width: 40ch;
+  max-width: 30ch;
   margin-left: auto;
   margin-right: auto;
 }
@@ -83,12 +87,47 @@ body .summary {
   color: hsl(161, 65%, 90%);
 }
 
+/* .card .html-image {
+  max-width: 20%;
+  margin-top: 3%;
+}
+
+.card .css-image {
+  max-width: 20%;
+  margin-top: 3%;
+} */
+
+/* .projects-container .card-column {
+  align-items: center;
+} */
+
+.projects-container .img-fluid {
+  /* max-width: 80%; */
+  /* align-items: center; */
+}
+
+/* .projects-container .img-fluid {
+  max-width: 20%;
+  margin-top: 3%;
+  margin-left: 3%;
+} */
+
+.projects-container .card-text {
+  max-width: 40ch;
+}
+
+.projects-container .website-button {
+  background-color: hsl(200, 47%, 45%);
+  color: hsl(0, 0%, 100%);
+}
+
 body .about-container {
   display: none;
 }
 
 body .projects-container{
   display: none;
+  background-color: hsl(161, 65%, 90%);
 }
 
 footer {
